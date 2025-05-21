@@ -38,8 +38,8 @@ This is a memory game where you guess a random sequence of numbers between 1 and
 var sequence = [];         // The correct number sequence
 var guessedSequence = [];  // User's correct guesses so far
 var sequenceLength = 4;    // Sequence length (default is 4)
+```
 
----
 ## Core Functions
 
 ### `generateSequence(length)`
