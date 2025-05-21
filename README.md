@@ -14,6 +14,16 @@
   - Incorrect → user is prompted to try again.
 - Once the full sequence is guessed, the user wins and can play again.
 
+  ---
+
+## Main Features
+
+- Random sequence generation
+- Guess tracking and validation
+- Real-time feedback messages
+- Replay functionality
+- In-game directions
+
 ---
 
 ## Screens Overview
@@ -23,16 +33,6 @@
 | `HomeScreen`      | Main menu to start or view directions |
 | `QuestionScreen`  | Game interface for making guesses    |
 | `DirectionScreen` | Instructions on how to play          |
-
----
-
-## Main Features
-
-- Random sequence generation
-- Guess tracking and validation
-- Real-time feedback messages
-- Replay functionality
-- In-game directions
 
 ---
 
